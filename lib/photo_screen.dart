@@ -12,7 +12,7 @@ class WebViewScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text('Web Page'),
       ),
-      // body: Web(
+      // body: Web( //Ritesh Branch
       //   initialUrl: url,
       //   javascriptMode: JavascriptMode.unrestricted,
       // ),
